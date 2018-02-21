@@ -1,8 +1,18 @@
 
 *.swp
-/Verilog/modelsim/work/*
+
+# ignore dir
+/Verilog/modelsim/*
+
+# except these project files
+!/Verilog/modelsim/build.do
+!/Verilog/modelsim/sim_quit.do
+!/Verilog/modelsim/sim_run.do
+
+# ignore dir
 /C/prj_vs2012/*
 
+# except these project files
 !/C/prj_vs2012/main/main.sln
 !/C/prj_vs2012/main/main.vcxproj
 !/C/prj_vs2012/main/main.vcxproj.filters
