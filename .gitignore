@@ -1,6 +1,6 @@
 
 *.swp
-
+/Verilog/modelsim/work/*
 /C/prj_vs2012/*
 
 !/C/prj_vs2012/main/main.sln
