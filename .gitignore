@@ -1,6 +1,11 @@
 
-/C/prj_vs2012/main/Debug/*
-/C/prj_vs2012/main/main.sdf
+*.swp
+
+/C/prj_vs2012/*
+
+!/C/prj_vs2012/main/main.sln
+!/C/prj_vs2012/main/main.vcxproj
+!/C/prj_vs2012/main/main.vcxproj.filters
 
 
 
